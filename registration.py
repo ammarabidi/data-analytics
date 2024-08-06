@@ -22,3 +22,4 @@ if username and email and password and cpassword and gender:
         print('Invalid username')
 else:
     print('All fields are required')
+    
